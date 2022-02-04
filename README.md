@@ -1,2 +1,2 @@
-# exploratory_data
+# Exploratory Data
 Template designed to apply data analysis tools
